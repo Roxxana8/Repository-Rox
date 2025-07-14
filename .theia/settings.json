@@ -1,0 +1,15 @@
+{
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "files.autoSave": "onWindowChange",
+    "files.exclude": {
+      "**/.git": true,
+      "**/node_modules": true,
+      "**/.DS_Store": true
+    },
+    "editor.fontSize": 14,
+    "terminal.integrated.fontSize": 13,
+    "workbench.colorTheme": "Default Dark+"
+  }
+  
